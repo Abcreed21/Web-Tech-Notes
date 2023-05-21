@@ -1,0 +1,111 @@
+# **Html**
+
+# Week 2 Web Tech
+
+1. `<table>`
+Defines a table element to display table data within a web page.
+
+2. `<thead>`
+Represents the header content of a table. Typically contains one <tr> element.
+
+3. `<tbody>`
+Represents the main content of a table. Contains one or more <tr>elements.
+
+4. `<tfoot>`
+Represents the footer content of a table. Typically contains one <tr> element.
+
+5. `<tr>` Represents a row in a table. Contains one or more  `<td>` elements when used within `<tbody>` or `<tfoot>`. 
+  
+   When used within `<thead>`, contains one or more `<th>` elements.
+
+6. `<td>`
+Represents a cell in a table. Contains the text content of the cell.
+
+7. `<th>`
+Defines a header cell of a table. Contains the text content of the header.
+
+8. `<caption>`
+Defines the caption of a table element.
+
+9. `<colgroup>`
+Defines a semantic group of one or more columns in a table for formatting.
+
+10. `<col>`
+Defines a semantic column in a table.
+nav for navbar
+
+11. `<div>` to divide the code
+
+12. `<break>` create a space between elements
+
+13. `<img>` to insert image 
+
+14. `<a>` to insert links to internal or external
+
+15. `<P>` for paragrah
+
+16. `<h1><h2><h3><h4><h5><h6>` Headings on the web page. `<h1>` indicates the most important heading whereas `<h6>` indicates the least important. 
+
+17. `<body>` part to write main code
+
+# **Basic Meta tags**
+
+1. `<meta name="description"/>` provides a brief description of the web page 
+
+2. `<meta name=”title”/>` specifies the title of the web page 
+
+3. `<meta name="author" content="name">` specifies the author of the web page  
+
+4. `<meta name="language" content="english">` specifies the language of the web page 
+
+5. `<meta name="robots" content="index,follow" />` tells search engines how to crawl or index a certain page 
+
+6. `<meta name="google"/>` tells Google not to show the sitelinks search box for your page when showing search results 
+
+7. `<meta name="googlebot" content=”notranslate” />` tells Google you don’t want to provide an automatic translation for your page if the user uses a different language  
+
+8. `<meta name="revised" content="Sunday, July 18th, 2010, 5:15 pm" />` specifies the last modified date and time on which you have made certain changes 
+
+9. `<meta name="rating" content="safe for kids">` specifies the expected audience for your page 
+
+10. `<meta name="copyright" content="Copyright 2022">` specifies a Copyright 
+
+
+# **Responsive design/mobile meta tags** 
+
+1. `<meta name="format-detection" content="telephone=yes"/>` indicates that telephone numbers should appear as hypertext links that can be clicked to make a phone call 
+
+2. `<meta name="HandheldFriendly" content="true"/>` specifies that the page can be properly visualized on mobile devices 
+
+3. `<meta name="viewport" content="width=device-width, initial-scale=1.0"/>` specifies the area of the window in which web content can be seen
+
+# **CSS**
+
+#### **Related to background Styles**
+
+`.Conatiner:`
+
+`.body:`
+
+`.background-img:`
+
+`.background-color:`
+         
+#### **Related to Font Styles**
+   `.font-family:`
+
+   `.font-style:`
+
+   `.font-weight:`
+#### **Related to Where/How We What To Be Elements Styles**
+
+`.Margin:Top,Right,Left,Bottom;`
+
+`.Padding:Top,Right,Left,Bottom;`
+
+`.Word-spacing:`
+
+`.Width: Usually written in %;`
+
+`.Height: Usually written in %;`
+
